@@ -1,4 +1,4 @@
-tiket_simple
+tiket_bus
 ============
 
 APlikasi tiket
